@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello\n");
+	for(int i=; i<10; i++){
+		printf("hello\n");
+	}
 	return 0;
 }
